@@ -106,7 +106,7 @@ This will start a development server for you.
 -   [React-Native](https://facebook.github.io/react-native/)  - Build the native app using JavaScript and React
 -   [React-Navigation](https://reactnavigation.org/docs/en/getting-started.html)  - Router
 - [Styled-Components](https://www.styled-components.com/) - Styles
-- [Expo-CLI]([https://docs.expo.io/versions/latest/workflow/expo-cli/](https://docs.expo.io/versions/latest/workflow/expo-cli/) - Command line app
+- [Expo-CLI](https://docs.expo.io/versions/latest/workflow/expo-cli/) - Command line app
 - [Expo-Camera](https://docs.expo.io/versions/latest/sdk/camera/) - Package for using camera on expo
 - [React Native Elements](https://react-native-elements.github.io/react-native-elements/) - Cross Platform React Native UI Toolkit
 - [Expo-Linear-Gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/) - Package used for Direct Linear Gradient border
